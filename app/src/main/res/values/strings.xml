@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Currency</string>
+    <string name="currency1">Currency 1</string>
+    <string name="currency2">Currency 2</string>
+    <string name="about">About</string>
+    <string name="exit">Exit</string>
+    <string name="developersName">Prabhjot Singh, Drashti Pandya, Ankit Kumar</string>
+    <string name="developers">Developed by:</string>
+    <string name="shakeHint">Click \"Go\" button or shake your phone to submit request</string>
+</resources>
