@@ -5,3 +5,9 @@
 - Simple and easy to use interface.
 - click on Go button or shake you phone to get results
 # language : Kotlin
+# Supported Currencies
+- USD
+- INR
+- CAD
+- GBP
+- EUR
